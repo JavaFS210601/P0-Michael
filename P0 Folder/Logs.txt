@@ -1,0 +1,82 @@
+2021-06-26 16:52:52 INFO  Menu:54 - User selected to view all stars
+2021-06-28 17:54:41 INFO  Menu:54 - User selected to view all stars
+2021-06-28 17:54:59 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 17:55:39 INFO  Menu:54 - User selected to view all stars
+2021-06-28 17:55:43 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 17:56:06 INFO  Menu:54 - User selected to view all stars
+2021-06-28 17:56:20 INFO  Menu:54 - User selected to view all stars
+2021-06-28 17:56:25 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 17:57:49 INFO  Menu:54 - User selected to view all stars
+2021-06-28 17:58:03 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:00:32 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:00:48 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:05:07 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:05:23 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:06:38 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:06:42 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:08:11 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:08:28 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:10:06 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:10:10 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:12:17 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:13:29 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:34:10 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:34:28 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:35:34 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:36:51 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:40:37 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:40:52 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:46:07 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:46:12 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:47:39 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:48:16 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:48:46 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:49:53 INFO  Menu:54 - User selected to view all stars
+2021-06-28 18:50:12 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:54:14 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:54:50 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-28 18:55:30 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-29 17:47:24 INFO  Menu:54 - User selected to view all stars
+2021-06-29 17:48:03 INFO  Menu:54 - User selected to view all stars
+2021-06-29 17:48:23 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-29 17:48:30 INFO  Menu:54 - User selected to view all stars
+2021-06-29 17:48:36 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-29 17:48:42 INFO  Menu:54 - User selected to view all stars
+2021-06-29 17:48:45 INFO  Menu:140 - The user decided to delete a star from existence!
+2021-06-29 17:48:50 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:04:36 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:05:14 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:05:32 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:07:30 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:09:35 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:14:49 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:15:30 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:15:43 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:18:35 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:21:00 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:22:05 INFO  Menu:54 - User selected to view all stars
+2021-06-29 18:34:18 INFO  Menu:54 - User selected to view all stars
+2021-06-30 01:27:00 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:27:08 INFO  Menu:213 - The user decided to delete a star from existence!
+2021-06-30 01:33:03 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:34:15 INFO  Menu:213 - The user decided to delete a star from existence!
+2021-06-30 01:34:27 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:39:00 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:39:05 INFO  Menu:214 - The user decided to delete a star from existence!
+2021-06-30 01:39:54 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:40:02 INFO  Menu:214 - The user decided to delete a star from existence!
+2021-06-30 01:40:19 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:42:11 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:43:26 INFO  Menu:166 - The user decided to change the properties of a star
+2021-06-30 01:44:13 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:46:45 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:46:50 INFO  Menu:166 - The user decided to change the properties of a star
+2021-06-30 01:47:05 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:48:52 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:49:00 INFO  Menu:166 - The user decided to change the properties of a star
+2021-06-30 01:49:16 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:53:46 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:53:54 INFO  Menu:166 - The user decided to change the properties of a star
+2021-06-30 01:57:03 INFO  Menu:55 - User selected to view all stars
+2021-06-30 01:58:18 INFO  Menu:214 - The user decided to delete a star from existence!
+2021-06-30 01:58:57 INFO  Menu:55 - User selected to view all stars
